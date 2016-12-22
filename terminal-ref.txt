@@ -1,0 +1,13 @@
+brew: package manager to install things
+tree: visual directory tree
+tmux: multiple panes in terminal, split screens
+fzf: fuzzy find, to search for things generally and fuzzily
+ag: improved search with categories
+
+cocoapods is installed
+
+ncurses is a thing that lets you write programs for terminal that redraw the terminal, code in C
+
+VALGRIND IS NOT INSTALLED BECAUSE macOS Sierra kind of killed it
+
+can also use eclipse for C/C++ and Javascript
