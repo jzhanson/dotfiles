@@ -11,3 +11,9 @@ ncurses is a thing that lets you write programs for terminal that redraw the ter
 VALGRIND IS NOT INSTALLED BECAUSE macOS Sierra kind of killed it
 
 can also use eclipse for C/C++ and Javascript
+
+to recover dotfiles from github remote repo:
+$ cd ~
+$ git clone https://github.com/jzhanson/dotfiles.git
+$ mv dotfiles/* dotfiles/.* .
+$ rm -f dotfiles
